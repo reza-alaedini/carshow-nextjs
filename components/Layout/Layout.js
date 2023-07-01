@@ -10,7 +10,7 @@ function Layout({ children }) {
       <div className={styles.container}>{children}</div>
       <footer className={styles.footer}>
         پروژه نکست جی اس |{" "}
-        <a href="https://reza-alaedini.vercel.app">رضا علاالدینی</a> &copy;
+        <a href="https://reza-alaedini.vercel.app" target="_blank">رضا علاالدینی</a> &copy;
       </footer>
     </>
   );

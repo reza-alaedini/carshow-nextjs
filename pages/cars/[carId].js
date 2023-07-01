@@ -10,7 +10,7 @@ function CarDetail() {
   const router = useRouter();
   const { carId } = router.query;
   const selectedCar = carsData[carId - 1];
-  console.log(selectedCar);
+
   return (
     <>
       <CarDetails {...selectedCar} />
