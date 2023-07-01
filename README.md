@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Next's Concepts used:
+- File-based routing
+- Dynamic routing
+- Nested File Dynamic routing
+- Catch All Routes (slug)
+- Working with "Link" component
+- Working with "useRouter" hook
+- Folders structure in Next.js
+
+
 ## Getting Started
 
 First, run the development server:
